@@ -43,20 +43,32 @@
     },
     {
       "id": 8,
-      "name": "Andy Robertson",
-      "shill_proof": "https://twitter.com/andrewrobertso5/status/1488131354009161738?s=20&t=FoD6wQ0BYS7dWaA-hJACWw",
-      "occupation": "Sportsperson"
+      "name": "Jimmy Fallon",
+      "shill_proof": "https://twitter.com/ParisHilton/status/1488361241512800258?s=20&t=uOsAaOnvwoBnNWuZEElzxg",
+      "occupation": "Talk show host"
     },
     {
       "id": 9,
-      "name": "Paul Pierce",
-      "shill_proof": "https://twitter.com/paulpierce34/status/1397628485917577217?s=20&t=_Cbfkvg9jIiRzBD11krlcg",
-      "occupation": "Sportsperson"
+      "name": "Paris Hilton",
+      "shill_proof": "https://twitter.com/ParisHilton/status/1488361241512800258?s=20&t=uOsAaOnvwoBnNWuZEElzxg",
+      "occupation": "Actor"
     },
     {
       "id": 10,
-      "name": "Eminem",
-      "shill_proof": "https://twitter.com/Eminem",
+      "name": "Snoop Dogg",
+      "shill_proof": "https://twitter.com/SnoopDogg/status/1484586102182727682?s=20&t=uOsAaOnvwoBnNWuZEElzxg",
+      "occupation" : "Rapper"
+    },
+    {
+      "id": 11,
+      "name": "Meek Mill",
+      "shill_proof": "https://twitter.com/MeekMill",
+      "occupation": "Rapper"
+    },
+    {
+      "id": 12,
+      "name": "Andy Robertson",
+      "shill_proof": "https://twitter.com/andrewrobertso5/status/1488131354009161738?s=20&t=FoD6wQ0BYS7dWaA-hJACWw",
       "occupation": "Sportsperson"
     }
 ]
