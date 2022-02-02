@@ -1,5 +1,5 @@
 import './App.css'
-import ShillData from './components/shillData';
+import ShillData from './components/ShillData';
 
 function App() {
 
