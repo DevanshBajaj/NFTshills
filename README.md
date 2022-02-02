@@ -1,0 +1,1 @@
+## Collection of Celebrities and influential people promoting crypto or NFTs to scam general public directly or indirectly.

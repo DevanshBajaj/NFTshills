@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Elon Musk",
+      "shill_proof" : "https://twitter.com/elonmusk/status/1481873421390680065?s=20&t=M5C4OnEN0BRxT0w4IofiDA",
+      "occupation" : "Businessperson"
+    },
+    {
+      "id": 2,
+      "name": "Floyd Mayweather",
+      "shill_proof": "https://www.cnbc.com/2022/01/12/kim-kardashian-and-floyd-mayweather-sued-over-alleged-crypto-scam.html",
+      "occupation" : "Boxer"
+    },
+    {
+      "id": 3,
+      "name": "Matt Damon",
+      "shill_proof": "https://www.youtube.com/watch?v=9hBC5TVdYT8",
+      "occupation" : "Actor"
+    },
+    {
+      "id": 4,
+      "name": "Gwyneth Paltrow",
+      "shill_proof": "https://twitter.com/GwynethPaltrow",
+      "occupation" : "Actor"
+    },
+    {
+      "id": 5,
+      "name": "Paul Pierce",
+      "shill_proof": "https://twitter.com/paulpierce34/status/1397628485917577217?s=20&t=_Cbfkvg9jIiRzBD11krlcg",
+      "occupation": "Sportsperson"
+    },
+    {
+      "id": 6,
+      "name": "Eminem",
+      "shill_proof": "https://twitter.com/Eminem",
+      "occupation" : "Rapper"
+    },
+    {
+      "id": 7,
+      "name": "Justin Bieber",
+      "shill_proof": "https://twitter.com/justinbieber/status/1473447665757310980?s=20&t=FoD6wQ0BYS7dWaA-hJACWw",
+      "occupation" : "Singer"
+    },
+    {
+      "id": 8,
+      "name": "Andy Robertson",
+      "shill_proof": "https://twitter.com/andrewrobertso5/status/1488131354009161738?s=20&t=FoD6wQ0BYS7dWaA-hJACWw",
+      "occupation": "Sportsperson"
+    },
+    {
+      "id": 9,
+      "name": "Paul Pierce",
+      "shill_proof": "https://twitter.com/paulpierce34/status/1397628485917577217?s=20&t=_Cbfkvg9jIiRzBD11krlcg",
+      "occupation": "Sportsperson"
+    },
+    {
+      "id": 10,
+      "name": "Eminem",
+      "shill_proof": "https://twitter.com/Eminem",
+      "occupation": "Sportsperson"
+    }
+]
